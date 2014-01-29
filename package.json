@@ -1,0 +1,42 @@
+{
+  "name": "naginata.fi",
+  "version": "0.5.2",
+  "title": "Naginata in Finland",
+  "homepage": "https://github.com/paazmaya/naginata.fi",
+  "description": "A web site in Finland for an ancient martial art from Japan",
+  "private": "true",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-phantomas": "~0.5.0",
+    "grunt-photobox": "~0.7.0"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paazmaya/naginata.fi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paazmaya/naginata.fi/issues"
+  },
+  "keywords": [
+    "atarashii",
+    "naginata",
+    "jikishin",
+    "koryu",
+    "finland",
+    "heroku",
+    "openshift",
+    "nodejitsu"
+  ],
+  "author": {
+    "name": "Juga Paazmaya",
+    "url": "http://paazmaya.com"
+  },
+  "license": {
+    "type": "Attribution-ShareAlike 3.0 Unported",
+    "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  }
+}
