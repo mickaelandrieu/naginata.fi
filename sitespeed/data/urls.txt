@@ -1,10 +1,10 @@
 http://naginata.fi
-http://naginata.fi/en/media
-http://naginata.fi/en/contact
-http://naginata.fi/fi
+http://naginata.fi/en
+http://naginata.fi/fi/naginata
+http://naginata.fi/fi/media
+http://naginata.fi/fi/yhteystiedot
+http://naginata.fi/fi/koryu
 http://naginata.fi/en/koryu
 http://naginata.fi/en/naginata
-http://naginata.fi/fi/koryu
-http://naginata.fi/fi/yhteystiedot
-http://naginata.fi/fi/media
-http://naginata.fi/fi/naginata
+http://naginata.fi/en/media
+http://naginata.fi/en/contact
