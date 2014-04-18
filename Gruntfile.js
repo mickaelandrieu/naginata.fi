@@ -15,7 +15,7 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
 
     phantomas: {
-      hitrost: {
+      heroku: {
         options: {
           indexPath: 'phantomas/',
           raw: [
