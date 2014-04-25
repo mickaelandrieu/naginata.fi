@@ -1,6 +1,6 @@
 
 Testing http://naginata.fi
-At Fri Apr 18 07:47:20 2014
+At Fri Apr 25 11:13:52 2014
 10 loops
                                    Fastest   Median    Slowest   Std Dev   
 ---------------------------------------------------------------------------
@@ -9,26 +9,26 @@ Server performance:
 Total application time                      Unable to be recorded          
 
 Host latency:
-farm7.staticflickr.com:80          80ms      100ms     166ms     31ms      
-www.google-analytics.com:80        23ms      29ms      62ms      12ms      
-www.naginata.fi:80                 80ms      82ms      135ms     15ms      
+farm7.staticflickr.com:80          8ms       13ms      59ms      14ms      
+www.google-analytics.com:80        8ms       11ms      17ms      2ms       
+www.naginata.fi:80                 7ms       11ms      66ms      16ms      
 
 Browser performance:
 Navigation Start:                  0ms       0ms       0ms       0ms       
-Redirect Start:                    16ms      18ms      28ms      3ms       
-Redirect End:                      1133ms    1540ms    1804ms    183ms     
-Connect End:                       1133ms    1540ms    1804ms    183ms     
-Connect Start:                     1133ms    1540ms    1804ms    183ms     
-Domain Lookup End:                 1133ms    1540ms    1804ms    183ms     
-Domain Lookup Start:               1133ms    1540ms    1804ms    183ms     
-Fetch Start:                       1133ms    1540ms    1804ms    183ms     
-Request Start:                     1135ms    1542ms    1805ms    182ms     
-Response Start:                    1249ms    1641ms    1893ms    177ms     
-Response End:                      1258ms    1649ms    1902ms    177ms     
-DOM Loading:                       1258ms    1650ms    1902ms    177ms     
-DOM Content Loaded Event Start:    1621ms    2017ms    2284ms    200ms     
-DOM Interactive:                   1620ms    2017ms    2284ms    200ms     
-DOM Content Loaded Event End:      1627ms    2022ms    2290ms    200ms     
-DOM Complete:                      1729ms    2128ms    2407ms    216ms     
-Load Event Start:                  1729ms    2128ms    2407ms    216ms     
-Load Event End:                    1729ms    2128ms    2407ms    216ms     
+Redirect Start:                    38ms      43ms      105ms     23ms      
+Redirect End:                      530ms     562ms     1516ms    310ms     
+Connect End:                       530ms     562ms     1516ms    310ms     
+Connect Start:                     530ms     562ms     1516ms    310ms     
+Domain Lookup End:                 530ms     562ms     1516ms    310ms     
+Domain Lookup Start:               530ms     562ms     1516ms    310ms     
+Fetch Start:                       530ms     562ms     1516ms    310ms     
+Request Start:                     535ms     566ms     1518ms    309ms     
+Response Start:                    602ms     638ms     1583ms    308ms     
+DOM Loading:                       611ms     650ms     1606ms    309ms     
+Response End:                      612ms     651ms     1608ms    310ms     
+DOM Content Loaded Event Start:    1230ms    1565ms    2223ms    319ms     
+DOM Interactive:                   1230ms    1565ms    2223ms    319ms     
+DOM Content Loaded Event End:      1239ms    1577ms    2232ms    319ms     
+DOM Complete:                      1399ms    1847ms    2377ms    332ms     
+Load Event End:                    1399ms    1847ms    2377ms    332ms     
+Load Event Start:                  1399ms    1847ms    2377ms    332ms     
