@@ -7,7 +7,7 @@
   "private": "true",
   "devDependencies": {
     "grunt": "~0.4.4",
-    "grunt-phantomas": "~0.5.3",
+    "grunt-phantomas": "~0.7.0",
     "grunt-photobox": "~0.8.0"
   },
   "engines": {
