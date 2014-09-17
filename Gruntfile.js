@@ -21,6 +21,7 @@ module.exports = function(grunt) {
           options   : {
             'film-strip': true
           },
+          output: ['json'],
           url: 'http://naginata.fi'
         }
       }
