@@ -18,10 +18,9 @@ module.exports = function(grunt) {
       heroku: {
         options: {
           indexPath: 'phantomas/',
-          raw: [
-            '--film-strip',
-            '--verbose'
-          ],
+          options   : {
+            'film-strip': true
+          },
           url: 'http://naginata.fi'
         }
       }
@@ -44,7 +43,7 @@ module.exports = function(grunt) {
             'http://naginata.fi/en/contact'
           ],
           screenSizes: [
-            '640', '800', '1024', '1248'
+            '480', '640', '800', '1024', '1248'
           ],
           template: 'magic'
         }
