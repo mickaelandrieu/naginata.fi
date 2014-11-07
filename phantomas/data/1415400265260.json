@@ -1,0 +1,1924 @@
+{
+  "assertions": {},
+  "metrics": {
+    "requests": {
+      "values": [
+        11,
+        11,
+        11,
+        11,
+        11,
+        null
+      ],
+      "sum": 55,
+      "min": 11,
+      "max": 11,
+      "median": 11,
+      "average": 11
+    },
+    "gzipRequests": {
+      "values": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        null
+      ],
+      "sum": 20,
+      "min": 4,
+      "max": 4,
+      "median": 4,
+      "average": 4
+    },
+    "postRequests": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "httpsRequests": {
+      "values": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "sum": 5,
+      "min": 1,
+      "max": 1,
+      "median": 1,
+      "average": 1
+    },
+    "notFound": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "bodySize": {
+      "values": [
+        153737,
+        172667,
+        173813,
+        195557,
+        195557,
+        null
+      ],
+      "sum": 891331,
+      "min": 153737,
+      "max": 195557,
+      "median": 173813,
+      "average": 178266.2
+    },
+    "contentLength": {
+      "values": [
+        176367,
+        176367,
+        176368,
+        200705,
+        200705,
+        null
+      ],
+      "sum": 930512,
+      "min": 176367,
+      "max": 200705,
+      "median": 176368,
+      "average": 186102.4
+    },
+    "httpTrafficCompleted": {
+      "values": [
+        1606,
+        1661,
+        1676,
+        1692,
+        1750,
+        null
+      ],
+      "sum": 8385,
+      "min": 1606,
+      "max": 1750,
+      "median": 1676,
+      "average": 1677
+    },
+    "timeToFirstByte": {
+      "values": [
+        217,
+        222,
+        224,
+        241,
+        248,
+        null
+      ],
+      "sum": 1152,
+      "min": 217,
+      "max": 248,
+      "median": 224,
+      "average": 230.4
+    },
+    "timeToLastByte": {
+      "values": [
+        220,
+        225,
+        230,
+        246,
+        253,
+        null
+      ],
+      "sum": 1174,
+      "min": 220,
+      "max": 253,
+      "median": 230,
+      "average": 234.8
+    },
+    "ajaxRequests": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "htmlCount": {
+      "values": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        null
+      ],
+      "sum": 10,
+      "min": 2,
+      "max": 2,
+      "median": 2,
+      "average": 2
+    },
+    "htmlSize": {
+      "values": [
+        24399,
+        24399,
+        24400,
+        24400,
+        24400,
+        null
+      ],
+      "sum": 121998,
+      "min": 24399,
+      "max": 24400,
+      "median": 24400,
+      "average": 24399.6
+    },
+    "cssCount": {
+      "values": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        null
+      ],
+      "sum": 10,
+      "min": 2,
+      "max": 2,
+      "median": 2,
+      "average": 2
+    },
+    "cssSize": {
+      "values": [
+        7724,
+        7724,
+        7724,
+        7724,
+        7724,
+        null
+      ],
+      "sum": 38620,
+      "min": 7724,
+      "max": 7724,
+      "median": 7724,
+      "average": 7724
+    },
+    "jsCount": {
+      "values": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        null
+      ],
+      "sum": 15,
+      "min": 3,
+      "max": 3,
+      "median": 3,
+      "average": 3
+    },
+    "jsSize": {
+      "values": [
+        119779,
+        119779,
+        119779,
+        144116,
+        144116,
+        null
+      ],
+      "sum": 647569,
+      "min": 119779,
+      "max": 144116,
+      "median": 119779,
+      "average": 129513.8
+    },
+    "jsonCount": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "jsonSize": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "imageCount": {
+      "values": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        null
+      ],
+      "sum": 20,
+      "min": 4,
+      "max": 4,
+      "median": 4,
+      "average": 4
+    },
+    "imageSize": {
+      "values": [
+        24465,
+        24465,
+        24465,
+        24465,
+        24465,
+        null
+      ],
+      "sum": 122325,
+      "min": 24465,
+      "max": 24465,
+      "median": 24465,
+      "average": 24465
+    },
+    "videoCount": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "videoSize": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "webfontCount": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "webfontSize": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "base64Count": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "base64Size": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "otherCount": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "otherSize": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "cacheHits": {
+      "values": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        null
+      ],
+      "sum": 25,
+      "min": 5,
+      "max": 5,
+      "median": 5,
+      "average": 5
+    },
+    "cacheMisses": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "cachePasses": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "cachingNotSpecified": {
+      "values": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        null
+      ],
+      "sum": 10,
+      "min": 2,
+      "max": 2,
+      "median": 2,
+      "average": 2
+    },
+    "cachingTooShort": {
+      "values": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        null
+      ],
+      "sum": 25,
+      "min": 5,
+      "max": 5,
+      "median": 5,
+      "average": 5
+    },
+    "cachingDisabled": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "oldCachingHeaders": {
+      "values": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        null
+      ],
+      "sum": 40,
+      "min": 8,
+      "max": 8,
+      "median": 8,
+      "average": 8
+    },
+    "consoleMessages": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "cookiesSent": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "cookiesRecv": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "domainsWithCookies": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "documentCookiesLength": {
+      "values": [
+        38,
+        38,
+        39,
+        39,
+        39,
+        null
+      ],
+      "sum": 193,
+      "min": 38,
+      "max": 39,
+      "median": 39,
+      "average": 38.6
+    },
+    "documentCookiesCount": {
+      "values": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        null
+      ],
+      "sum": 10,
+      "min": 2,
+      "max": 2,
+      "median": 2,
+      "average": 2
+    },
+    "documentHeight": {
+      "values": [
+        2592,
+        2592,
+        2592,
+        2592,
+        2592,
+        null
+      ],
+      "sum": 12960,
+      "min": 2592,
+      "max": 2592,
+      "median": 2592,
+      "average": 2592
+    },
+    "domains": {
+      "values": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        null
+      ],
+      "sum": 30,
+      "min": 6,
+      "max": 6,
+      "median": 6,
+      "average": 6
+    },
+    "maxRequestsPerDomain": {
+      "values": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        null
+      ],
+      "sum": 25,
+      "min": 5,
+      "max": 5,
+      "median": 5,
+      "average": 5
+    },
+    "medianRequestsPerDomain": {
+      "values": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "sum": 5,
+      "min": 1,
+      "max": 1,
+      "median": 1,
+      "average": 1
+    },
+    "commentsSize": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "hiddenContentSize": {
+      "values": [
+        1027,
+        1027,
+        1027,
+        1027,
+        1027,
+        null
+      ],
+      "sum": 5135,
+      "min": 1027,
+      "max": 1027,
+      "median": 1027,
+      "average": 1027
+    },
+    "whiteSpacesSize": {
+      "values": [
+        49,
+        49,
+        49,
+        49,
+        49,
+        null
+      ],
+      "sum": 245,
+      "min": 49,
+      "max": 49,
+      "median": 49,
+      "average": 49
+    },
+    "DOMelementsCount": {
+      "values": [
+        107,
+        107,
+        107,
+        107,
+        107,
+        null
+      ],
+      "sum": 535,
+      "min": 107,
+      "max": 107,
+      "median": 107,
+      "average": 107
+    },
+    "DOMelementMaxDepth": {
+      "values": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        null
+      ],
+      "sum": 25,
+      "min": 5,
+      "max": 5,
+      "median": 5,
+      "average": 5
+    },
+    "nodesWithInlineCSS": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "DOMmutationsInserts": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "DOMmutationsRemoves": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "DOMmutationsAttributes": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "DOMqueries": {
+      "values": [
+        227,
+        227,
+        227,
+        227,
+        227,
+        null
+      ],
+      "sum": 1135,
+      "min": 227,
+      "max": 227,
+      "median": 227,
+      "average": 227
+    },
+    "DOMqueriesById": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "DOMqueriesByClassName": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "DOMqueriesByTagName": {
+      "values": [
+        227,
+        227,
+        227,
+        227,
+        227,
+        null
+      ],
+      "sum": 1135,
+      "min": 227,
+      "max": 227,
+      "median": 227,
+      "average": 227
+    },
+    "DOMqueriesByQuerySelectorAll": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "DOMinserts": {
+      "values": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        null
+      ],
+      "sum": 20,
+      "min": 4,
+      "max": 4,
+      "median": 4,
+      "average": 4
+    },
+    "DOMqueriesDuplicated": {
+      "values": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        null
+      ],
+      "sum": 25,
+      "min": 5,
+      "max": 5,
+      "median": 5,
+      "average": 5
+    },
+    "eventsBound": {
+      "values": [
+        40,
+        40,
+        40,
+        40,
+        40,
+        null
+      ],
+      "sum": 200,
+      "min": 40,
+      "max": 40,
+      "median": 40,
+      "average": 40
+    },
+    "globalVariables": {
+      "values": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        null
+      ],
+      "sum": 45,
+      "min": 9,
+      "max": 9,
+      "median": 9,
+      "average": 9
+    },
+    "globalVariablesFalsy": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "headersCount": {
+      "values": [
+        161,
+        161,
+        161,
+        161,
+        161,
+        null
+      ],
+      "sum": 805,
+      "min": 161,
+      "max": 161,
+      "median": 161,
+      "average": 161
+    },
+    "headersSentCount": {
+      "values": [
+        31,
+        31,
+        31,
+        31,
+        31,
+        null
+      ],
+      "sum": 155,
+      "min": 31,
+      "max": 31,
+      "median": 31,
+      "average": 31
+    },
+    "headersRecvCount": {
+      "values": [
+        130,
+        130,
+        130,
+        130,
+        130,
+        null
+      ],
+      "sum": 650,
+      "min": 130,
+      "max": 130,
+      "median": 130,
+      "average": 130
+    },
+    "headersSize": {
+      "values": [
+        5964,
+        5964,
+        5964,
+        5965,
+        5965,
+        null
+      ],
+      "sum": 29822,
+      "min": 5964,
+      "max": 5965,
+      "median": 5964,
+      "average": 5964.4
+    },
+    "headersSentSize": {
+      "values": [
+        1219,
+        1219,
+        1219,
+        1219,
+        1219,
+        null
+      ],
+      "sum": 6095,
+      "min": 1219,
+      "max": 1219,
+      "median": 1219,
+      "average": 1219
+    },
+    "headersRecvSize": {
+      "values": [
+        4745,
+        4745,
+        4745,
+        4746,
+        4746,
+        null
+      ],
+      "sum": 23727,
+      "min": 4745,
+      "max": 4746,
+      "median": 4745,
+      "average": 4745.4
+    },
+    "headersBiggerThanContent": {
+      "values": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        null
+      ],
+      "sum": 15,
+      "min": 3,
+      "max": 3,
+      "median": 3,
+      "average": 3
+    },
+    "documentWriteCalls": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "evalCalls": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "jQueryOnDOMReadyFunctions": {
+      "values": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "sum": 5,
+      "min": 1,
+      "max": 1,
+      "median": 1,
+      "average": 1
+    },
+    "jQuerySizzleCalls": {
+      "values": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        null
+      ],
+      "sum": 45,
+      "min": 9,
+      "max": 9,
+      "median": 9,
+      "average": 9
+    },
+    "jsErrors": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "localStorageEntries": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "redirects": {
+      "values": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "sum": 5,
+      "min": 1,
+      "max": 1,
+      "median": 1,
+      "average": 1
+    },
+    "redirectsTime": {
+      "values": [
+        382,
+        398,
+        413,
+        416,
+        429,
+        null
+      ],
+      "sum": 2038,
+      "min": 382,
+      "max": 429,
+      "median": 413,
+      "average": 407.6
+    },
+    "assetsNotGzipped": {
+      "values": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        null
+      ],
+      "sum": 10,
+      "min": 2,
+      "max": 2,
+      "median": 2,
+      "average": 2
+    },
+    "assetsWithQueryString": {
+      "values": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        null
+      ],
+      "sum": 15,
+      "min": 3,
+      "max": 3,
+      "median": 3,
+      "average": 3
+    },
+    "assetsWithCookies": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "smallImages": {
+      "values": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        null
+      ],
+      "sum": 10,
+      "min": 2,
+      "max": 2,
+      "median": 2,
+      "average": 2
+    },
+    "multipleRequests": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "timeToFirstCss": {
+      "values": [
+        527,
+        553,
+        559,
+        576,
+        598,
+        null
+      ],
+      "sum": 2813,
+      "min": 527,
+      "max": 598,
+      "median": 559,
+      "average": 562.6
+    },
+    "timeToFirstJs": {
+      "values": [
+        752,
+        859,
+        885,
+        957,
+        975,
+        null
+      ],
+      "sum": 4428,
+      "min": 752,
+      "max": 975,
+      "median": 885,
+      "average": 885.6
+    },
+    "timeToFirstImage": {
+      "values": [
+        675,
+        702,
+        708,
+        858,
+        885,
+        null
+      ],
+      "sum": 3828,
+      "min": 675,
+      "max": 885,
+      "median": 708,
+      "average": 765.6
+    },
+    "domInteractive": {
+      "values": [
+        338,
+        465,
+        499,
+        527,
+        567,
+        null
+      ],
+      "sum": 2396,
+      "min": 338,
+      "max": 567,
+      "median": 499,
+      "average": 479.2
+    },
+    "domContentLoaded": {
+      "values": [
+        338,
+        466,
+        499,
+        527,
+        567,
+        null
+      ],
+      "sum": 2397,
+      "min": 338,
+      "max": 567,
+      "median": 499,
+      "average": 479.4
+    },
+    "domContentLoadedEnd": {
+      "values": [
+        348,
+        475,
+        538,
+        643,
+        712,
+        null
+      ],
+      "sum": 2716,
+      "min": 348,
+      "max": 712,
+      "median": 538,
+      "average": 543.2
+    },
+    "domComplete": {
+      "values": [
+        1034,
+        1052,
+        1072,
+        1096,
+        1118,
+        null
+      ],
+      "sum": 5372,
+      "min": 1034,
+      "max": 1118,
+      "median": 1072,
+      "average": 1074.4
+    },
+    "timeBackend": {
+      "values": [
+        17,
+        17,
+        18,
+        18,
+        18,
+        null
+      ],
+      "sum": 88,
+      "min": 17,
+      "max": 18,
+      "median": 18,
+      "average": 17.6
+    },
+    "timeFrontend": {
+      "values": [
+        82,
+        82,
+        82,
+        83,
+        83,
+        null
+      ],
+      "sum": 412,
+      "min": 82,
+      "max": 83,
+      "median": 82,
+      "average": 82.4
+    },
+    "windowAlerts": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "windowConfirms": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "windowPrompts": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "bodyHTMLSize": {
+      "values": [
+        11171,
+        11171,
+        11171,
+        11171,
+        11171,
+        null
+      ],
+      "sum": 55855,
+      "min": 11171,
+      "max": 11171,
+      "median": 11171,
+      "average": 11171
+    },
+    "iframesCount": {
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "sum": 0,
+      "min": 0,
+      "max": 0,
+      "median": 0,
+      "average": 0
+    },
+    "imagesWithoutDimensions": {
+      "values": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "sum": 5,
+      "min": 1,
+      "max": 1,
+      "median": 1,
+      "average": 1
+    },
+    "smallestResponse": {
+      "values": [
+        35,
+        35,
+        35,
+        35,
+        35,
+        null
+      ],
+      "sum": 175,
+      "min": 35,
+      "max": 35,
+      "median": 35,
+      "average": 35
+    },
+    "biggestResponse": {
+      "values": [
+        100549,
+        100549,
+        100549,
+        100549,
+        100549,
+        null
+      ],
+      "sum": 502745,
+      "min": 100549,
+      "max": 100549,
+      "median": 100549,
+      "average": 100549
+    },
+    "fastestResponse": {
+      "values": [
+        28,
+        31,
+        31,
+        32,
+        35,
+        null
+      ],
+      "sum": 157,
+      "min": 28,
+      "max": 35,
+      "median": 31,
+      "average": 31.4
+    },
+    "slowestResponse": {
+      "values": [
+        379,
+        419,
+        435,
+        436,
+        467,
+        null
+      ],
+      "sum": 2136,
+      "min": 379,
+      "max": 467,
+      "median": 435,
+      "average": 427.2
+    },
+    "smallestLatency": {
+      "values": [
+        28,
+        31,
+        31,
+        32,
+        35,
+        null
+      ],
+      "sum": 157,
+      "min": 28,
+      "max": 35,
+      "median": 31,
+      "average": 31.4
+    },
+    "biggestLatency": {
+      "values": [
+        285,
+        419,
+        435,
+        436,
+        466,
+        null
+      ],
+      "sum": 2041,
+      "min": 285,
+      "max": 466,
+      "median": 435,
+      "average": 408.2
+    },
+    "medianResponse": {
+      "values": [
+        111.5,
+        158,
+        168.5,
+        186,
+        187.5,
+        null
+      ],
+      "sum": 811.5,
+      "min": 111.5,
+      "max": 187.5,
+      "median": 168.5,
+      "average": 162.3
+    },
+    "medianLatency": {
+      "values": [
+        110,
+        137,
+        142,
+        158,
+        168.5,
+        null
+      ],
+      "sum": 715.5,
+      "min": 110,
+      "max": 168.5,
+      "median": 142,
+      "average": 143.1
+    }
+  },
+  "offenders": {
+    "gzipRequests": [
+      "http://naginata.fi/en (gzip: 23.77 kB / uncompressed: 23.77 kB)",
+      "http://naginata.fi/css/naginata.min.css (gzip: 7.13 kB / uncompressed: 7.13 kB)",
+      "http://naginata.fi/js/naginata.min.js (gzip: 98.19 kB / uncompressed: 98.19 kB)",
+      "http://js-agent.newrelic.com/nr-476.min.js (gzip: 17.72 kB / uncompressed: 17.72 kB)"
+    ],
+    "httpsRequests": [
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=258342143.1415400267&jid=2037824891&_u=MGAAgAQ~&z=84902671",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1106269552.1415400267&jid=1297446565&_u=MGAAgAQ~&z=1124867199",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=2129918625.1415400267&jid=1942292423&_u=MGAAgAQ~&z=442706539",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1982975775.1415400267&jid=407678114&_u=MGAAgAQ~&z=125598889",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=798994944.1415400267&jid=600058301&_u=MGAAgAQ~&z=1664466739"
+    ],
+    "htmlCount": [
+      "http://naginata.fi/ (0.06 kB)",
+      "http://naginata.fi/en (23.77 kB)"
+    ],
+    "cssCount": [
+      "http://naginata.fi/css/naginata.min.css (7.13 kB)",
+      "http://fonts.googleapis.com/css?family=Inder%7CLora&subset=latin-ext,latin (0.42 kB)"
+    ],
+    "jsCount": [
+      "http://naginata.fi/js/naginata.min.js (98.19 kB)",
+      "http://www.google-analytics.com/analytics.js (1.06 kB)",
+      "http://js-agent.newrelic.com/nr-476.min.js (17.72 kB)",
+      "http://www.google-analytics.com/analytics.js (24.83 kB)"
+    ],
+    "imageCount": [
+      "http://naginata.fi/img/logo.png (6.17 kB)",
+      "http://farm7.staticflickr.com/6059/6283180930_4405e8e6f1_m.jpg (17.66 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1902029657&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=2037824891&cid=258342143.1415400267&tid=UA-2643697-14&z=1264872142 (0.03 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=258342143.1415400267&jid=2037824891&_u=MGAAgAQ~&z=84902671 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=505433668&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1297446565&cid=1106269552.1415400267&tid=UA-2643697-14&z=1885920837 (0.03 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1106269552.1415400267&jid=1297446565&_u=MGAAgAQ~&z=1124867199 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1491752174&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1942292423&cid=2129918625.1415400267&tid=UA-2643697-14&z=2141397535 (0.03 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=2129918625.1415400267&jid=1942292423&_u=MGAAgAQ~&z=442706539 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1961317822&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=407678114&cid=1982975775.1415400267&tid=UA-2643697-14&z=2145445991 (0.03 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1982975775.1415400267&jid=407678114&_u=MGAAgAQ~&z=125598889 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=940183055&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=600058301&cid=798994944.1415400267&tid=UA-2643697-14&z=61658926 (0.03 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=798994944.1415400267&jid=600058301&_u=MGAAgAQ~&z=1664466739 (0.03 kB)"
+    ],
+    "cacheHits": [
+      "http://farm7.staticflickr.com/6059/6283180930_4405e8e6f1_m.jpg",
+      "http://www.google-analytics.com/analytics.js",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1902029657&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=2037824891&cid=258342143.1415400267&tid=UA-2643697-14&z=1264872142",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=258342143.1415400267&jid=2037824891&_u=MGAAgAQ~&z=84902671",
+      "http://js-agent.newrelic.com/nr-476.min.js",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=505433668&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1297446565&cid=1106269552.1415400267&tid=UA-2643697-14&z=1885920837",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1106269552.1415400267&jid=1297446565&_u=MGAAgAQ~&z=1124867199",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1491752174&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1942292423&cid=2129918625.1415400267&tid=UA-2643697-14&z=2141397535",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=2129918625.1415400267&jid=1942292423&_u=MGAAgAQ~&z=442706539",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1961317822&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=407678114&cid=1982975775.1415400267&tid=UA-2643697-14&z=2145445991",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1982975775.1415400267&jid=407678114&_u=MGAAgAQ~&z=125598889",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=940183055&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=600058301&cid=798994944.1415400267&tid=UA-2643697-14&z=61658926",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=798994944.1415400267&jid=600058301&_u=MGAAgAQ~&z=1664466739"
+    ],
+    "cachingNotSpecified": [
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1902029657&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=2037824891&cid=258342143.1415400267&tid=UA-2643697-14&z=1264872142",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=258342143.1415400267&jid=2037824891&_u=MGAAgAQ~&z=84902671",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=505433668&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1297446565&cid=1106269552.1415400267&tid=UA-2643697-14&z=1885920837",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1106269552.1415400267&jid=1297446565&_u=MGAAgAQ~&z=1124867199",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1491752174&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1942292423&cid=2129918625.1415400267&tid=UA-2643697-14&z=2141397535",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=2129918625.1415400267&jid=1942292423&_u=MGAAgAQ~&z=442706539",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1961317822&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=407678114&cid=1982975775.1415400267&tid=UA-2643697-14&z=2145445991",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1982975775.1415400267&jid=407678114&_u=MGAAgAQ~&z=125598889",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=940183055&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=600058301&cid=798994944.1415400267&tid=UA-2643697-14&z=61658926",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=798994944.1415400267&jid=600058301&_u=MGAAgAQ~&z=1664466739"
+    ],
+    "cachingTooShort": [
+      "http://naginata.fi/css/naginata.min.css cached for 7200 s",
+      "http://fonts.googleapis.com/css?family=Inder%7CLora&subset=latin-ext,latin cached for 86400 s",
+      "http://naginata.fi/img/logo.png cached for 7200 s",
+      "http://naginata.fi/js/naginata.min.js cached for 7200 s",
+      "http://www.google-analytics.com/analytics.js cached for 7200 s"
+    ],
+    "oldCachingHeaders": [
+      "http://fonts.googleapis.com/css?family=Inder%7CLora&subset=latin-ext,latin - Expires: Fri, 07 Nov 2014 22:44:24 GMT",
+      "http://farm7.staticflickr.com/6059/6283180930_4405e8e6f1_m.jpg - Expires: Wed, 02 Oct 2024 17:16:44 UTC",
+      "http://www.google-analytics.com/analytics.js - Expires: Fri, 07 Nov 2014 23:29:59 GMT",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1902029657&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=2037824891&cid=258342143.1415400267&tid=UA-2643697-14&z=1264872142 - Pragma: no-cache",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1902029657&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=2037824891&cid=258342143.1415400267&tid=UA-2643697-14&z=1264872142 - Expires: Mon, 07 Aug 1995 23:30:00 GMT",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=258342143.1415400267&jid=2037824891&_u=MGAAgAQ~&z=84902671 - Pragma: no-cache",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=258342143.1415400267&jid=2037824891&_u=MGAAgAQ~&z=84902671 - Expires: Mon, 07 Aug 1995 23:30:00 GMT",
+      "http://js-agent.newrelic.com/nr-476.min.js - Expires: Thu, 31 Dec 2037 23:55:55 GMT",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=505433668&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1297446565&cid=1106269552.1415400267&tid=UA-2643697-14&z=1885920837 - Pragma: no-cache",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=505433668&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1297446565&cid=1106269552.1415400267&tid=UA-2643697-14&z=1885920837 - Expires: Mon, 07 Aug 1995 23:30:00 GMT",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1106269552.1415400267&jid=1297446565&_u=MGAAgAQ~&z=1124867199 - Pragma: no-cache",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1106269552.1415400267&jid=1297446565&_u=MGAAgAQ~&z=1124867199 - Expires: Mon, 07 Aug 1995 23:30:00 GMT",
+      "http://www.google-analytics.com/analytics.js - Expires: Fri, 07 Nov 2014 22:50:48 GMT",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1491752174&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1942292423&cid=2129918625.1415400267&tid=UA-2643697-14&z=2141397535 - Pragma: no-cache",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1491752174&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1942292423&cid=2129918625.1415400267&tid=UA-2643697-14&z=2141397535 - Expires: Mon, 07 Aug 1995 23:30:00 GMT",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=2129918625.1415400267&jid=1942292423&_u=MGAAgAQ~&z=442706539 - Pragma: no-cache",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=2129918625.1415400267&jid=1942292423&_u=MGAAgAQ~&z=442706539 - Expires: Mon, 07 Aug 1995 23:30:00 GMT",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1961317822&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=407678114&cid=1982975775.1415400267&tid=UA-2643697-14&z=2145445991 - Pragma: no-cache",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1961317822&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=407678114&cid=1982975775.1415400267&tid=UA-2643697-14&z=2145445991 - Expires: Mon, 07 Aug 1995 23:30:00 GMT",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1982975775.1415400267&jid=407678114&_u=MGAAgAQ~&z=125598889 - Pragma: no-cache",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1982975775.1415400267&jid=407678114&_u=MGAAgAQ~&z=125598889 - Expires: Mon, 07 Aug 1995 23:30:00 GMT",
+      "http://www.google-analytics.com/analytics.js - Expires: Sat, 08 Nov 2014 00:12:27 GMT",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=940183055&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=600058301&cid=798994944.1415400267&tid=UA-2643697-14&z=61658926 - Pragma: no-cache",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=940183055&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=600058301&cid=798994944.1415400267&tid=UA-2643697-14&z=61658926 - Expires: Mon, 07 Aug 1995 23:30:00 GMT",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=798994944.1415400267&jid=600058301&_u=MGAAgAQ~&z=1664466739 - Pragma: no-cache",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=798994944.1415400267&jid=600058301&_u=MGAAgAQ~&z=1664466739 - Expires: Mon, 07 Aug 1995 23:30:00 GMT"
+    ],
+    "domains": [
+      "naginata.fi: 5 request(s)",
+      "www.google-analytics.com: 2 request(s)",
+      "fonts.googleapis.com: 1 request(s)",
+      "farm7.staticflickr.com: 1 request(s)",
+      "stats.g.doubleclick.net: 1 request(s)",
+      "js-agent.newrelic.com: 1 request(s)"
+    ],
+    "hiddenContentSize": [
+      "body > div#colorbox (1026 characters)"
+    ],
+    "DOMqueriesByTagName": [
+      "*",
+      "script",
+      "html",
+      "img",
+      "a",
+      "div"
+    ],
+    "DOMinserts": [
+      "\"div\" appended to \"html\"",
+      "\"script\" appended to \"head\"",
+      "\"DocumentFragment\" appended to \"body\"",
+      "\"script\" appended to \"body\""
+    ],
+    "DOMqueriesDuplicated": [
+      "tag name \"img\": 191 queries",
+      "tag name \"script\": 27 queries",
+      "tag name \"*\": 3 queries",
+      "tag name \"a\": 3 queries",
+      "tag name \"div\": 2 queries"
+    ],
+    "eventsBound": [
+      "\"DOMContentLoaded\" bound to \"#document\"",
+      "\"load\" bound to \"window\"",
+      "\"mouseout\" bound to \"#document\"",
+      "\"mouseover\" bound to \"#document\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[3] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[5] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[7] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[9] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[11] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[13] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[15] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[17] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[21] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[23] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[25] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[27] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[31] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[33] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[35] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[35] > a[3]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[37] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[39] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[41] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[43] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[45] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[47] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[51] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[53] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[57] > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > ul[8] > li[59] > a[1]\"",
+      "\"click\" bound to \"body > footer.full-width > p.centered > a[0]\"",
+      "\"click\" bound to \"body > footer.full-width > p.centered > a[1]\"",
+      "\"click\" bound to \"body > div.centered > article.news > p[14] > a[0]\"",
+      "\"cbox_complete\" bound to \"#document\"",
+      "\"click\" bound to \"#document\"",
+      "\"beforeunload\" bound to \"window\"",
+      "\"pagehide\" bound to \"window\"",
+      "\"unload\" bound to \"window\""
+    ],
+    "globalVariables": [
+      "sendanmaki",
+      "jQuery",
+      "NREUM",
+      "__nr_require",
+      "$",
+      "GoogleAnalyticsObject",
+      "ga",
+      "gaplugins",
+      "gaGlobal"
+    ],
+    "headersBiggerThanContent": [
+      "http://naginata.fi/ (body: 0.06 kB / headers: 0.19 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1902029657&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=2037824891&cid=258342143.1415400267&tid=UA-2643697-14&z=1264872142 (body: 0.03 kB / headers: 0.38 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=258342143.1415400267&jid=2037824891&_u=MGAAgAQ~&z=84902671 (body: 0.03 kB / headers: 0.38 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=505433668&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1297446565&cid=1106269552.1415400267&tid=UA-2643697-14&z=1885920837 (body: 0.03 kB / headers: 0.38 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1106269552.1415400267&jid=1297446565&_u=MGAAgAQ~&z=1124867199 (body: 0.03 kB / headers: 0.38 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1491752174&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1942292423&cid=2129918625.1415400267&tid=UA-2643697-14&z=2141397535 (body: 0.03 kB / headers: 0.38 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=2129918625.1415400267&jid=1942292423&_u=MGAAgAQ~&z=442706539 (body: 0.03 kB / headers: 0.38 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1961317822&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=407678114&cid=1982975775.1415400267&tid=UA-2643697-14&z=2145445991 (body: 0.03 kB / headers: 0.38 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1982975775.1415400267&jid=407678114&_u=MGAAgAQ~&z=125598889 (body: 0.03 kB / headers: 0.38 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=940183055&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=600058301&cid=798994944.1415400267&tid=UA-2643697-14&z=61658926 (body: 0.03 kB / headers: 0.38 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=798994944.1415400267&jid=600058301&_u=MGAAgAQ~&z=1664466739 (body: 0.03 kB / headers: 0.38 kB)"
+    ],
+    "redirects": [
+      "http://naginata.fi/ is a redirect (HTTP 302 Moved Temporarily) to /en (took 416 ms)",
+      "http://naginata.fi/ is a redirect (HTTP 302 Moved Temporarily) to /en (took 413 ms)",
+      "http://naginata.fi/ is a redirect (HTTP 302 Moved Temporarily) to /en (took 398 ms)",
+      "http://naginata.fi/ is a redirect (HTTP 302 Moved Temporarily) to /en (took 429 ms)",
+      "http://naginata.fi/ is a redirect (HTTP 302 Moved Temporarily) to /en (took 382 ms)"
+    ],
+    "assetsNotGzipped": [
+      "http://fonts.googleapis.com/css?family=Inder%7CLora&subset=latin-ext,latin (CSS)",
+      "http://www.google-analytics.com/analytics.js (JS)"
+    ],
+    "assetsWithQueryString": [
+      "http://fonts.googleapis.com/css?family=Inder%7CLora&subset=latin-ext,latin (CSS)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1902029657&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=2037824891&cid=258342143.1415400267&tid=UA-2643697-14&z=1264872142 (IMAGE)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=258342143.1415400267&jid=2037824891&_u=MGAAgAQ~&z=84902671 (IMAGE)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=505433668&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1297446565&cid=1106269552.1415400267&tid=UA-2643697-14&z=1885920837 (IMAGE)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1106269552.1415400267&jid=1297446565&_u=MGAAgAQ~&z=1124867199 (IMAGE)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1491752174&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1942292423&cid=2129918625.1415400267&tid=UA-2643697-14&z=2141397535 (IMAGE)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=2129918625.1415400267&jid=1942292423&_u=MGAAgAQ~&z=442706539 (IMAGE)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1961317822&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=407678114&cid=1982975775.1415400267&tid=UA-2643697-14&z=2145445991 (IMAGE)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1982975775.1415400267&jid=407678114&_u=MGAAgAQ~&z=125598889 (IMAGE)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=940183055&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=600058301&cid=798994944.1415400267&tid=UA-2643697-14&z=61658926 (IMAGE)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=798994944.1415400267&jid=600058301&_u=MGAAgAQ~&z=1664466739 (IMAGE)"
+    ],
+    "smallImages": [
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1902029657&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=2037824891&cid=258342143.1415400267&tid=UA-2643697-14&z=1264872142 (0.03 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=258342143.1415400267&jid=2037824891&_u=MGAAgAQ~&z=84902671 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=505433668&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1297446565&cid=1106269552.1415400267&tid=UA-2643697-14&z=1885920837 (0.03 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1106269552.1415400267&jid=1297446565&_u=MGAAgAQ~&z=1124867199 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1491752174&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1942292423&cid=2129918625.1415400267&tid=UA-2643697-14&z=2141397535 (0.03 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=2129918625.1415400267&jid=1942292423&_u=MGAAgAQ~&z=442706539 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1961317822&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=407678114&cid=1982975775.1415400267&tid=UA-2643697-14&z=2145445991 (0.03 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=1982975775.1415400267&jid=407678114&_u=MGAAgAQ~&z=125598889 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=940183055&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=600058301&cid=798994944.1415400267&tid=UA-2643697-14&z=61658926 (0.03 kB)",
+      "https://stats.g.doubleclick.net/collect?t=dc&aip=1&v=1&_v=j30&tid=UA-2643697-14&cid=798994944.1415400267&jid=600058301&_u=MGAAgAQ~&z=1664466739 (0.03 kB)"
+    ],
+    "timeToFirstCss": [
+      "http://naginata.fi/css/naginata.min.css received in 559 ms",
+      "http://naginata.fi/css/naginata.min.css received in 527 ms",
+      "http://naginata.fi/css/naginata.min.css received in 553 ms",
+      "http://naginata.fi/css/naginata.min.css received in 598 ms",
+      "http://naginata.fi/css/naginata.min.css received in 576 ms"
+    ],
+    "timeToFirstJs": [
+      "http://naginata.fi/js/naginata.min.js received in 752 ms",
+      "http://naginata.fi/js/naginata.min.js received in 859 ms",
+      "http://naginata.fi/js/naginata.min.js received in 957 ms",
+      "http://naginata.fi/js/naginata.min.js received in 975 ms",
+      "http://naginata.fi/js/naginata.min.js received in 885 ms"
+    ],
+    "timeToFirstImage": [
+      "http://naginata.fi/img/logo.png received in 702 ms",
+      "http://naginata.fi/img/logo.png received in 858 ms",
+      "http://naginata.fi/img/logo.png received in 675 ms",
+      "http://naginata.fi/img/logo.png received in 708 ms",
+      "http://naginata.fi/img/logo.png received in 885 ms"
+    ],
+    "imagesWithoutDimensions": [
+      "body > div.centered > article.news > p[14] > a[0] > img[0]"
+    ],
+    "smallestResponse": [
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1902029657&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=2037824891&cid=258342143.1415400267&tid=UA-2643697-14&z=1264872142 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=505433668&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1297446565&cid=1106269552.1415400267&tid=UA-2643697-14&z=1885920837 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1491752174&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1942292423&cid=2129918625.1415400267&tid=UA-2643697-14&z=2141397535 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1961317822&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=407678114&cid=1982975775.1415400267&tid=UA-2643697-14&z=2145445991 (0.03 kB)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=940183055&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=600058301&cid=798994944.1415400267&tid=UA-2643697-14&z=61658926 (0.03 kB)"
+    ],
+    "biggestResponse": [
+      "http://naginata.fi/js/naginata.min.js (98.19 kB)"
+    ],
+    "fastestResponse": [
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1902029657&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=2037824891&cid=258342143.1415400267&tid=UA-2643697-14&z=1264872142 (31 ms)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=505433668&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1297446565&cid=1106269552.1415400267&tid=UA-2643697-14&z=1885920837 (31 ms)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1491752174&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1942292423&cid=2129918625.1415400267&tid=UA-2643697-14&z=2141397535 (32 ms)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1961317822&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=407678114&cid=1982975775.1415400267&tid=UA-2643697-14&z=2145445991 (28 ms)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=940183055&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=600058301&cid=798994944.1415400267&tid=UA-2643697-14&z=61658926 (35 ms)"
+    ],
+    "slowestResponse": [
+      "http://www.google-analytics.com/analytics.js (379 ms)",
+      "http://naginata.fi/js/naginata.min.js (436 ms)",
+      "http://farm7.staticflickr.com/6059/6283180930_4405e8e6f1_m.jpg (467 ms)",
+      "http://farm7.staticflickr.com/6059/6283180930_4405e8e6f1_m.jpg (435 ms)",
+      "http://naginata.fi/js/naginata.min.js (419 ms)"
+    ],
+    "smallestLatency": [
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1902029657&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=2037824891&cid=258342143.1415400267&tid=UA-2643697-14&z=1264872142 (31 ms)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=505433668&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1297446565&cid=1106269552.1415400267&tid=UA-2643697-14&z=1885920837 (31 ms)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1491752174&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=1942292423&cid=2129918625.1415400267&tid=UA-2643697-14&z=2141397535 (32 ms)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=1961317822&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=407678114&cid=1982975775.1415400267&tid=UA-2643697-14&z=2145445991 (28 ms)",
+      "http://www.google-analytics.com/collect?v=1&_v=j30&a=940183055&t=pageview&_s=1&dl=http%3A%2F%2Fnaginata.fi%2Fen&ul=en-us&de=UTF-8&dt=News%20%7C%20Naginata%20Finland&sd=32-bit&sr=1024x768&vp=2560x2048&je=0&_u=MGAAgAQ~&jid=600058301&cid=798994944.1415400267&tid=UA-2643697-14&z=61658926 (35 ms)"
+    ],
+    "biggestLatency": [
+      "http://naginata.fi/js/naginata.min.js (285 ms)",
+      "http://naginata.fi/js/naginata.min.js (436 ms)",
+      "http://farm7.staticflickr.com/6059/6283180930_4405e8e6f1_m.jpg (466 ms)",
+      "http://farm7.staticflickr.com/6059/6283180930_4405e8e6f1_m.jpg (435 ms)",
+      "http://naginata.fi/js/naginata.min.js (419 ms)"
+    ]
+  }
+}
