@@ -1,0 +1,41 @@
+2014-11-07T22:36:54.388Z - info: OS: linux 3.13.0-39-generic sitespeed:3.0.0-beta-3  phantomJs:1.9.8 java:java version "1.7.0_65"
+2014-11-07T22:36:56.518Z - info: Will analyze 15 pages
+2014-11-07T22:36:56.521Z - info: Running YSlow for http://naginata.fi
+2014-11-07T22:36:56.524Z - info: Running YSlow for http://naginata.fi/fi/koryu
+2014-11-07T22:36:56.527Z - info: Running YSlow for http://naginata.fi/fi/media
+2014-11-07T22:36:56.530Z - info: Running YSlow for http://naginata.fi/fi/naginata
+2014-11-07T22:36:56.535Z - info: Running YSlow for http://naginata.fi/ja
+2014-11-07T22:37:05.447Z - info: Running YSlow for http://naginata.fi/en
+2014-11-07T22:37:06.453Z - info: Running YSlow for http://naginata.fi/fi/yhteystiedot
+2014-11-07T22:37:09.789Z - info: Running YSlow for http://naginata.fi/en/koryu
+2014-11-07T22:37:10.261Z - info: Running YSlow for http://naginata.fi/ja/media
+2014-11-07T22:37:13.436Z - info: Running YSlow for http://naginata.fi/en/naginata
+2014-11-07T22:37:15.102Z - info: Running YSlow for http://naginata.fi/ja/toiawase
+2014-11-07T22:37:15.828Z - info: Running YSlow for http://naginata.fi/ja/koryu
+2014-11-07T22:37:18.637Z - info: Running YSlow for http://naginata.fi/en/media
+2014-11-07T22:37:27.602Z - info: Running YSlow for http://naginata.fi/en/contact
+2014-11-07T22:37:27.993Z - info: Running YSlow for http://naginata.fi/ja/naginata
+2014-11-07T22:37:51.523Z - info: Done analyzing urls
+2014-11-07T22:37:51.591Z - info: Wrote file errors.html
+2014-11-07T22:37:51.592Z - info: Wrote file assets.html
+2014-11-07T22:37:51.592Z - info: Wrote file hotlist.html
+2014-11-07T22:37:51.592Z - info: Wrote file pages.html
+2014-11-07T22:37:51.592Z - info: Wrote file rules.html
+2014-11-07T22:37:51.592Z - info: Wrote file index.html
+2014-11-07T22:37:51.592Z - info: Wrote file detailed-site-summary.html
+2014-11-07T22:37:51.592Z - info: Wrote file naginata.fi.html
+2014-11-07T22:37:51.592Z - info: Wrote file fi-koryu.html
+2014-11-07T22:37:51.593Z - info: Wrote file fi-media.html
+2014-11-07T22:37:51.593Z - info: Wrote file fi-naginata.html
+2014-11-07T22:37:51.593Z - info: Wrote file ja.html
+2014-11-07T22:37:51.593Z - info: Wrote file en.html
+2014-11-07T22:37:51.593Z - info: Wrote file fi-yhteystiedot.html
+2014-11-07T22:37:51.593Z - info: Wrote file ja-media.html
+2014-11-07T22:37:51.593Z - info: Wrote file en-koryu.html
+2014-11-07T22:37:51.593Z - info: Wrote file en-naginata.html
+2014-11-07T22:37:51.593Z - info: Wrote file ja-toiawase.html
+2014-11-07T22:37:51.593Z - info: Wrote file ja-koryu.html
+2014-11-07T22:37:51.593Z - info: Wrote file en-media.html
+2014-11-07T22:37:51.593Z - info: Wrote file en-contact.html
+2014-11-07T22:37:51.593Z - info: Wrote file ja-naginata.html
+2014-11-07T22:37:51.600Z - info: Wrote results to /mitsu/Programming/sitespeed-result/naginata.fi/2014-11-08-00-36-54
